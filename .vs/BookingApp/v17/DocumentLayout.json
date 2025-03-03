@@ -1,0 +1,281 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\New\\Downloads\\BookingApp\\BookingApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30C26366-823D-4F42-8C7C-2F8E45A26B1F}|BookingApp\\BookingApp.csproj|c:\\users\\new\\downloads\\bookingapp\\bookingapp\\bookingapp\\infrastructure\\factories\\iserviceproviderfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30C26366-823D-4F42-8C7C-2F8E45A26B1F}|BookingApp\\BookingApp.csproj|solutionrelative:bookingapp\\infrastructure\\factories\\iserviceproviderfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C26366-823D-4F42-8C7C-2F8E45A26B1F}|BookingApp\\BookingApp.csproj|c:\\users\\new\\downloads\\bookingapp\\bookingapp\\bookingapp\\infrastructure\\factories\\isearchservicefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30C26366-823D-4F42-8C7C-2F8E45A26B1F}|BookingApp\\BookingApp.csproj|solutionrelative:bookingapp\\infrastructure\\factories\\isearchservicefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C26366-823D-4F42-8C7C-2F8E45A26B1F}|BookingApp\\BookingApp.csproj|c:\\users\\new\\downloads\\bookingapp\\bookingapp\\bookingapp\\models\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30C26366-823D-4F42-8C7C-2F8E45A26B1F}|BookingApp\\BookingApp.csproj|solutionrelative:bookingapp\\models\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C26366-823D-4F42-8C7C-2F8E45A26B1F}|BookingApp\\BookingApp.csproj|c:\\users\\new\\downloads\\bookingapp\\bookingapp\\bookingapp\\services\\hotelsearchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30C26366-823D-4F42-8C7C-2F8E45A26B1F}|BookingApp\\BookingApp.csproj|solutionrelative:bookingapp\\services\\hotelsearchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C26366-823D-4F42-8C7C-2F8E45A26B1F}|BookingApp\\BookingApp.csproj|c:\\users\\new\\downloads\\bookingapp\\bookingapp\\bookingapp\\services\\flightsearchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30C26366-823D-4F42-8C7C-2F8E45A26B1F}|BookingApp\\BookingApp.csproj|solutionrelative:bookingapp\\services\\flightsearchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C26366-823D-4F42-8C7C-2F8E45A26B1F}|BookingApp\\BookingApp.csproj|c:\\users\\new\\downloads\\bookingapp\\bookingapp\\bookingapp\\infrastructure\\providers\\amadeusserviceprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30C26366-823D-4F42-8C7C-2F8E45A26B1F}|BookingApp\\BookingApp.csproj|solutionrelative:bookingapp\\infrastructure\\providers\\amadeusserviceprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C26366-823D-4F42-8C7C-2F8E45A26B1F}|BookingApp\\BookingApp.csproj|c:\\users\\new\\downloads\\bookingapp\\bookingapp\\bookingapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30C26366-823D-4F42-8C7C-2F8E45A26B1F}|BookingApp\\BookingApp.csproj|solutionrelative:bookingapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C26366-823D-4F42-8C7C-2F8E45A26B1F}|BookingApp\\BookingApp.csproj|c:\\users\\new\\downloads\\bookingapp\\bookingapp\\bookingapp\\services\\isearchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30C26366-823D-4F42-8C7C-2F8E45A26B1F}|BookingApp\\BookingApp.csproj|solutionrelative:bookingapp\\services\\isearchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C26366-823D-4F42-8C7C-2F8E45A26B1F}|BookingApp\\BookingApp.csproj|c:\\users\\new\\downloads\\bookingapp\\bookingapp\\bookingapp\\infrastructure\\apiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30C26366-823D-4F42-8C7C-2F8E45A26B1F}|BookingApp\\BookingApp.csproj|solutionrelative:bookingapp\\infrastructure\\apiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C26366-823D-4F42-8C7C-2F8E45A26B1F}|BookingApp\\BookingApp.csproj|c:\\users\\new\\downloads\\bookingapp\\bookingapp\\bookingapp\\infrastructure\\providers\\sabreserviceprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30C26366-823D-4F42-8C7C-2F8E45A26B1F}|BookingApp\\BookingApp.csproj|solutionrelative:bookingapp\\infrastructure\\providers\\sabreserviceprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C26366-823D-4F42-8C7C-2F8E45A26B1F}|BookingApp\\BookingApp.csproj|c:\\users\\new\\downloads\\bookingapp\\bookingapp\\bookingapp\\infrastructure\\iserviceprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30C26366-823D-4F42-8C7C-2F8E45A26B1F}|BookingApp\\BookingApp.csproj|solutionrelative:bookingapp\\infrastructure\\iserviceprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C26366-823D-4F42-8C7C-2F8E45A26B1F}|BookingApp\\BookingApp.csproj|c:\\users\\new\\downloads\\bookingapp\\bookingapp\\bookingapp\\infrastructure\\factories\\searchservicefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30C26366-823D-4F42-8C7C-2F8E45A26B1F}|BookingApp\\BookingApp.csproj|solutionrelative:bookingapp\\infrastructure\\factories\\searchservicefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C26366-823D-4F42-8C7C-2F8E45A26B1F}|BookingApp\\BookingApp.csproj|c:\\users\\new\\downloads\\bookingapp\\bookingapp\\bookingapp\\infrastructure\\modelparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30C26366-823D-4F42-8C7C-2F8E45A26B1F}|BookingApp\\BookingApp.csproj|solutionrelative:bookingapp\\infrastructure\\modelparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C26366-823D-4F42-8C7C-2F8E45A26B1F}|BookingApp\\BookingApp.csproj|c:\\users\\new\\downloads\\bookingapp\\bookingapp\\bookingapp\\infrastructure\\factories\\serviceproviderfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30C26366-823D-4F42-8C7C-2F8E45A26B1F}|BookingApp\\BookingApp.csproj|solutionrelative:bookingapp\\infrastructure\\factories\\serviceproviderfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C26366-823D-4F42-8C7C-2F8E45A26B1F}|BookingApp\\BookingApp.csproj|c:\\users\\new\\downloads\\bookingapp\\bookingapp\\bookingapp\\models\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30C26366-823D-4F42-8C7C-2F8E45A26B1F}|BookingApp\\BookingApp.csproj|solutionrelative:bookingapp\\models\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FlightSearchService.cs",
+              "DocumentMoniker": "C:\\Users\\New\\Downloads\\BookingApp\\BookingApp\\BookingApp\\Services\\FlightSearchService.cs",
+              "RelativeDocumentMoniker": "BookingApp\\Services\\FlightSearchService.cs",
+              "ToolTip": "C:\\Users\\New\\Downloads\\BookingApp\\BookingApp\\BookingApp\\Services\\FlightSearchService.cs",
+              "RelativeToolTip": "BookingApp\\Services\\FlightSearchService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T17:28:21.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HotelSearchService.cs",
+              "DocumentMoniker": "C:\\Users\\New\\Downloads\\BookingApp\\BookingApp\\BookingApp\\Services\\HotelSearchService.cs",
+              "RelativeDocumentMoniker": "BookingApp\\Services\\HotelSearchService.cs",
+              "ToolTip": "C:\\Users\\New\\Downloads\\BookingApp\\BookingApp\\BookingApp\\Services\\HotelSearchService.cs",
+              "RelativeToolTip": "BookingApp\\Services\\HotelSearchService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T17:33:23.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SabreServiceProvider.cs",
+              "DocumentMoniker": "C:\\Users\\New\\Downloads\\BookingApp\\BookingApp\\BookingApp\\Infrastructure\\Providers\\SabreServiceProvider.cs",
+              "RelativeDocumentMoniker": "BookingApp\\Infrastructure\\Providers\\SabreServiceProvider.cs",
+              "ToolTip": "C:\\Users\\New\\Downloads\\BookingApp\\BookingApp\\BookingApp\\Infrastructure\\Providers\\SabreServiceProvider.cs",
+              "RelativeToolTip": "BookingApp\\Infrastructure\\Providers\\SabreServiceProvider.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAiwCsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T16:56:07.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Flight.cs",
+              "DocumentMoniker": "C:\\Users\\New\\Downloads\\BookingApp\\BookingApp\\BookingApp\\Models\\Flight.cs",
+              "RelativeDocumentMoniker": "BookingApp\\Models\\Flight.cs",
+              "ToolTip": "C:\\Users\\New\\Downloads\\BookingApp\\BookingApp\\BookingApp\\Models\\Flight.cs",
+              "RelativeToolTip": "BookingApp\\Models\\Flight.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T16:46:32.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ISearchServiceFactory.cs",
+              "DocumentMoniker": "C:\\Users\\New\\Downloads\\BookingApp\\BookingApp\\BookingApp\\Infrastructure\\Factories\\ISearchServiceFactory.cs",
+              "RelativeDocumentMoniker": "BookingApp\\Infrastructure\\Factories\\ISearchServiceFactory.cs",
+              "ToolTip": "C:\\Users\\New\\Downloads\\BookingApp\\BookingApp\\BookingApp\\Infrastructure\\Factories\\ISearchServiceFactory.cs",
+              "RelativeToolTip": "BookingApp\\Infrastructure\\Factories\\ISearchServiceFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T17:32:30.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IServiceProviderFactory.cs",
+              "DocumentMoniker": "C:\\Users\\New\\Downloads\\BookingApp\\BookingApp\\BookingApp\\Infrastructure\\Factories\\IServiceProviderFactory.cs",
+              "RelativeDocumentMoniker": "BookingApp\\Infrastructure\\Factories\\IServiceProviderFactory.cs",
+              "ToolTip": "C:\\Users\\New\\Downloads\\BookingApp\\BookingApp\\BookingApp\\Infrastructure\\Factories\\IServiceProviderFactory.cs",
+              "RelativeToolTip": "BookingApp\\Infrastructure\\Factories\\IServiceProviderFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T17:31:10.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AmadeusServiceProvider.cs",
+              "DocumentMoniker": "C:\\Users\\New\\Downloads\\BookingApp\\BookingApp\\BookingApp\\Infrastructure\\Providers\\AmadeusServiceProvider.cs",
+              "RelativeDocumentMoniker": "BookingApp\\Infrastructure\\Providers\\AmadeusServiceProvider.cs",
+              "ToolTip": "C:\\Users\\New\\Downloads\\BookingApp\\BookingApp\\BookingApp\\Infrastructure\\Providers\\AmadeusServiceProvider.cs",
+              "RelativeToolTip": "BookingApp\\Infrastructure\\Providers\\AmadeusServiceProvider.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T16:56:44.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ISearchService.cs",
+              "DocumentMoniker": "C:\\Users\\New\\Downloads\\BookingApp\\BookingApp\\BookingApp\\Services\\ISearchService.cs",
+              "RelativeDocumentMoniker": "BookingApp\\Services\\ISearchService.cs",
+              "ToolTip": "C:\\Users\\New\\Downloads\\BookingApp\\BookingApp\\BookingApp\\Services\\ISearchService.cs",
+              "RelativeToolTip": "BookingApp\\Services\\ISearchService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T17:28:00.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\New\\Downloads\\BookingApp\\BookingApp\\BookingApp\\Program.cs",
+              "RelativeDocumentMoniker": "BookingApp\\Program.cs",
+              "ToolTip": "C:\\Users\\New\\Downloads\\BookingApp\\BookingApp\\BookingApp\\Program.cs",
+              "RelativeToolTip": "BookingApp\\Program.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAQwEcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T16:44:50.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApiClient.cs",
+              "DocumentMoniker": "C:\\Users\\New\\Downloads\\BookingApp\\BookingApp\\BookingApp\\Infrastructure\\ApiClient.cs",
+              "RelativeDocumentMoniker": "BookingApp\\Infrastructure\\ApiClient.cs",
+              "ToolTip": "C:\\Users\\New\\Downloads\\BookingApp\\BookingApp\\BookingApp\\Infrastructure\\ApiClient.cs",
+              "RelativeToolTip": "BookingApp\\Infrastructure\\ApiClient.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAqwFMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T17:19:17.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IServiceProvider.cs",
+              "DocumentMoniker": "C:\\Users\\New\\Downloads\\BookingApp\\BookingApp\\BookingApp\\Infrastructure\\IServiceProvider.cs",
+              "RelativeDocumentMoniker": "BookingApp\\Infrastructure\\IServiceProvider.cs",
+              "ToolTip": "C:\\Users\\New\\Downloads\\BookingApp\\BookingApp\\BookingApp\\Infrastructure\\IServiceProvider.cs",
+              "RelativeToolTip": "BookingApp\\Infrastructure\\IServiceProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T16:54:53.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SearchServiceFactory.cs",
+              "DocumentMoniker": "C:\\Users\\New\\Downloads\\BookingApp\\BookingApp\\BookingApp\\Infrastructure\\Factories\\SearchServiceFactory.cs",
+              "RelativeDocumentMoniker": "BookingApp\\Infrastructure\\Factories\\SearchServiceFactory.cs",
+              "ToolTip": "C:\\Users\\New\\Downloads\\BookingApp\\BookingApp\\BookingApp\\Infrastructure\\Factories\\SearchServiceFactory.cs",
+              "RelativeToolTip": "BookingApp\\Infrastructure\\Factories\\SearchServiceFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T17:32:45.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ModelParser.cs",
+              "DocumentMoniker": "C:\\Users\\New\\Downloads\\BookingApp\\BookingApp\\BookingApp\\Infrastructure\\ModelParser.cs",
+              "RelativeDocumentMoniker": "BookingApp\\Infrastructure\\ModelParser.cs",
+              "ToolTip": "C:\\Users\\New\\Downloads\\BookingApp\\BookingApp\\BookingApp\\Infrastructure\\ModelParser.cs",
+              "RelativeToolTip": "BookingApp\\Infrastructure\\ModelParser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T17:56:52.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ServiceProviderFactory.cs",
+              "DocumentMoniker": "C:\\Users\\New\\Downloads\\BookingApp\\BookingApp\\BookingApp\\Infrastructure\\Factories\\ServiceProviderFactory.cs",
+              "RelativeDocumentMoniker": "BookingApp\\Infrastructure\\Factories\\ServiceProviderFactory.cs",
+              "ToolTip": "C:\\Users\\New\\Downloads\\BookingApp\\BookingApp\\BookingApp\\Infrastructure\\Factories\\ServiceProviderFactory.cs",
+              "RelativeToolTip": "BookingApp\\Infrastructure\\Factories\\ServiceProviderFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T17:31:43.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Hotel.cs",
+              "DocumentMoniker": "C:\\Users\\New\\Downloads\\BookingApp\\BookingApp\\BookingApp\\Models\\Hotel.cs",
+              "RelativeDocumentMoniker": "BookingApp\\Models\\Hotel.cs",
+              "ToolTip": "C:\\Users\\New\\Downloads\\BookingApp\\BookingApp\\BookingApp\\Models\\Hotel.cs",
+              "RelativeToolTip": "BookingApp\\Models\\Hotel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T16:51:22.403Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
