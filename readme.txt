@@ -20,7 +20,7 @@ MySQL (optional, but Docker runs MySQL in a container)
 
 1️⃣ Clone the Repository
 
-git clone https://github.com/your-repo/FlightSearchApp.git
+git clone https://github.com/engwaqar7/bookingapp-assignment.git
 cd FlightSearchApp
 
 2️⃣ Setup the Database
