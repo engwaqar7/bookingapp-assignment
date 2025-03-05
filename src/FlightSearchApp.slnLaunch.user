@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "FlightSearch.Api\\FlightSearch.Api.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "FlightSearch.Domain\\FlightSearch.Domain.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "FlightSearch.Infrastructure\\FlightSearch.Infrastructure.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" Sdk="Microsoft.Docker.Sdk">
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>ef276bef-1a7f-41f4-a394-0a259756a696</ProjectGuid>
+    <DockerLaunchBrowser>True</DockerLaunchBrowser>
+    <DockerServiceName>flightsearchapp</DockerServiceName>
+    <DockerTargetOS>Linux</DockerTargetOS>
+    <ProjectVersion>2.1</ProjectVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <None Include="docker-compose.yml" />
+  </ItemGroup>
+</Project>

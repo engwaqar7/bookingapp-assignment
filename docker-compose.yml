@@ -1,0 +1,36 @@
+version: '3.4'
+
+services:
+  flightsearchapp:
+    image: flightsearchapp
+    build:
+        context: ./src
+        dockerfile: FlightSearch.Api/Dockerfile
+    ports:
+      - "5000:5000"  # Correctly mapping container port 5000 to host 5000
+    depends_on:
+      - mysql
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ASPNETCORE_URLS=http://+:5000
+      - ConnectionStrings__DefaultConnection=Server=mysql;Database=FlightDb;User=root;Password=root;
+
+  mysql:
+    image: mysql:latest
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_DATABASE: FlightDb
+    ports:
+      - "3307:3306"
+    volumes:
+      - mysql_data:/var/lib/mysql
+
+  adminer:  # This is the new service for the MySQL UI - Server: mysql , Username: root ,Password: root, Database: FlightDb
+    image: adminer
+    restart: always
+    ports:
+      - "8081:8080"  # Adminer will be accessible at port 8081
+
+volumes:
+  mysql_data:
